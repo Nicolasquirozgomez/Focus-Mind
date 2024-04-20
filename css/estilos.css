@@ -1,0 +1,25 @@
+*{
+    background-color: #270e2c;
+    color: aliceblue;
+}
+header{color: cyan;
+font-family: fantasy;
+background-color:blue ;
+width: 900px;
+height: 100px;
+font-size: 35px;
+margin-left: 200px;}
+
+img{width: 100px;
+height: 100px;}
+
+#titulo1{
+    color: blueviolet;
+}
+.titulo2{
+    color: chartreuse;
+}
+#imagen1{
+    display: flex;
+    justify-content: center;
+}
